@@ -59,6 +59,7 @@ CSS can be added to HTML documents in 3 ways:
 3. Internal - by using a style element in the head section for example 
 
 ```
+<style>
 body {
   background-color: lightblue;
 }
@@ -72,6 +73,7 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+</style>
 ```
 4. External - by using a link element to link to an external CSS file.
 

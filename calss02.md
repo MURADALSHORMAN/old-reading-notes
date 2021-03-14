@@ -244,3 +244,21 @@ Quiz :
 *  a ``` <header> </header style = "background-color: lightblue;"> ```
 *  b ``` <header> style = "background-color: lightblue;" </header> ```
 *  c ``` <headerstyle = "background-color: lightblue;"> </header> ```
+
+3. for the folloing switch statment if the fruits value Apple what is the msg will shown?
+```
+switch
+(fruits) {
+ case
+ "Banana":
+    alert("Hello")
+    break;
+ case
+ "Apple":
+    alert("Welcome")
+    break;    
+}
+```
+* a Apple
+* b welcome
+* c fruits

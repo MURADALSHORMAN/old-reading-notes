@@ -191,3 +191,56 @@ switch (new Date().getDay()) {
     day = "Saturday";
 }
 ```
+Quiz :
+
+1. for the following HTML stracture which is the correct standerd stracutre ?
+* a 
+ ```
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  </head>
+<body>
+    <header>
+          </header>
+    <main>
+          </main>
+    <footar>
+             </footer>
+</body>
+</html>
+ ```
+* b 
+ ```
+  <!DOCTYPE html>
+<html lang="en">
+<body>
+    <header>
+          </header>
+    <main>
+          </main>
+    <footar>
+             </footer>
+</body>
+</html>
+ ```
+* c 
+ ```
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  </head>
+<body>
+      <main>
+          </main>
+    <footar>
+             </footer>
+</body>
+</html>
+ ```
+ 
+ 2. in Css which is the correct statment to change background color for the header ?
+ 
+*  a ``` <header> </header style = "background-color: lightblue;"> ```
+*  b ``` <header> style = "background-color: lightblue;" </header> ```
+*  c ``` <headerstyle = "background-color: lightblue;"> </header> ```

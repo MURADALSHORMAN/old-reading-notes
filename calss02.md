@@ -89,3 +89,57 @@ p {
 </body>
 </html>
 ```
+# JavaScript
+### what is JavaScript?
+
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, ...
+
+### why we need JavaScript?
+
+JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages.
+
+### how to use JavaScript?
+A computer program is a list of "instructions" to be "executed" by a computer.In a programming language, these programming instructions are called statements.
+A JavaScript program is a list of programming statements for example:
+``` document.getElementById("demo").innerHTML = "Hello Dolly."; ```
+
+#### Semicolons ;
+Semicolons separate JavaScript statements. Add a semicolon at the end of each executable statement:
+``` 
+var a, b, c;     // Declare 3 variables
+a = 5;           // Assign the value 5 to a
+b = 6;           // Assign the value 6 to b
+c = a + b;       // Assign the sum of a and b to c
+```
+#### JavaScript Values
+The JavaScript syntax defines two types of values:
+* Fixed values
+* Variable values
+Fixed values are called Literals.Variable values are called Variables.
+
+#### JavaScript Literals
+The two most important syntax rules for fixed values are:
+
+1. Numbers are written with or without decimal
+2. Strings are text, written within double or single quotes
+
+#### JavaScript Variables
+In a programming language, variables are used to store data values.JavaScript uses the var keyword to declare variables.
+An equal sign is used to assign values to variables. In this example, x is defined as a variable. Then, x is assigned (given) the value 6:
+```
+var x;
+
+x = 6;
+```
+
+#### JavaScript Operators
+JavaScript uses arithmetic operators ( + - * / ) to compute values:
+```
+(5 + 6) * 10
+```
+JavaScript uses an assignment operator ( = ) to assign values to variables:
+```
+var x, y;
+x = 5;
+y = 6;
+```

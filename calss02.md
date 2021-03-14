@@ -56,7 +56,7 @@ CSS can be added to HTML documents in 3 ways:
     .
           </header>
 ```
-3. Internal - by using a style element in the head section for example 
+2. Internal - by using a style element in the head section for example 
 
 ```
 <style>
@@ -75,7 +75,7 @@ p {
 }
 </style>
 ```
-4. External - by using a link element to link to an external CSS file.
+3. External - by using a link element to link to an external CSS file.
 
 ```
 <!DOCTYPE html>
@@ -142,4 +142,52 @@ JavaScript uses an assignment operator ( = ) to assign values to variables:
 var x, y;
 x = 5;
 y = 6;
+```
+#### The JavaScript Switch Statement
+Use the switch statement to select one of many code blocks to be executed.
+
+Syntax:
+```
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+```
+This is how it works:
+
+* The switch expression is evaluated once.
+* The value of the expression is compared with the values of each case.
+* If there is a match, the associated block of code is executed.
+* If there is no match, the default code block is executed.
+
+This example uses the weekday number to calculate the weekday name:
+```
+switch (new Date().getDay()) {
+  case 0:
+    day = "Sunday";
+    break;
+  case 1:
+    day = "Monday";
+    break;
+  case 2:
+     day = "Tuesday";
+    break;
+  case 3:
+    day = "Wednesday";
+    break;
+  case 4:
+    day = "Thursday";
+    break;
+  case 5:
+    day = "Friday";
+    break;
+  case 6:
+    day = "Saturday";
+}
 ```

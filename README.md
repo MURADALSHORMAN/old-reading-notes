@@ -2,7 +2,7 @@
 
 ### Sat Mar 13, 2021
 -  [Lab: 01a - Create a Reading Notes Repo](https://muradalshorman.github.io/readme-201d19/)
--  [Read: 01 - Introductory HTML and JavaScript]()
+-  [Read: 01 - Introductory HTML and JavaScript](https://github.com/MURADALSHORMAN/readme-201d19/blob/main/class01.md)
 
 ### Mon Mar 15, 2021	
 - [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions	](https://github.com/MURADALSHORMAN/readme-201d19/blob/main/calss02.md)

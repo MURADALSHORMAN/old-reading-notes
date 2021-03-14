@@ -17,13 +17,18 @@ that html using the Tags to write the code and also contain  opining Tag and clo
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+  </head>
 <body>
-    
+    <header>
+    .
+          </header>
+    <main>
+    .
+    .
+                </main>
+    <footar>
+    .
+              </footer>
 </body>
 </html>
 ```
@@ -31,9 +36,54 @@ that html using the Tags to write the code and also contain  opining Tag and clo
 
 HTML code ensures the proper formatting of text and images for your Internet browser. Without HTML, a browser would not know how to display text as elements or load images or other elements. HTML also provides a basic structure of the page, upon which Cascading Style Sheets are overlaid to change its appearance.
 
-# what is th CSS ?
+## css
+### what is th CSS ?
 >
 CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or in other media. CSS saves a lot of work. It can control the layout of multiple web pages all at once.
 
 
+#### Why we need Css?
 
+CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language.
+
+
+### how to use CSS?
+CSS can be added to HTML documents in 3 ways:
+
+1. Inline - by using the style attribute inside HTML elements.
+```
+<header style="color: red ;">
+    .
+          </header>
+```
+3. Internal - by using a style element in the head section for example 
+
+```
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+```
+4. External - by using a link element to link to an external CSS file.
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="file name">
+  </head>
+<body>
+ .
+ .
+</body>
+</html>
+```

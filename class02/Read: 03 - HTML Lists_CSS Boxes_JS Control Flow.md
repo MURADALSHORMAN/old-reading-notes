@@ -113,15 +113,16 @@ overflow: scroll;}
 
 ### border-style
 You can control the style of a border using the border-style property.
+
+`p.one {border-style: solid;}`
+`p.two {border-style: dotted;}`
+`p.three {border-style: dashed;}`
+`p.four {border-style: double;}`
+`p.five {border-style: groove;}`
+`p.six {border-style: ridge;}`
+`p.seven {border-style: inset;}`
+`p.eight {border-style: outset;}
 `
-p.one {border-style: solid;}
-p.two {border-style: dotted;}
-p.three {border-style: dashed;}
-p.four {border-style: double;}
-p.five {border-style: groove;}
-p.six {border-style: ridge;}
-p.seven {border-style: inset;}
-p.eight {border-style: outset;}
-`
-[]()
+
+[](https://github.com/MURADALSHORMAN/reading-notes/blob/main/class02/broderstyle.JPG)
   

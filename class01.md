@@ -64,8 +64,8 @@ we can defined the id for any element by write the name of the id in the Tag for
 for the classes we can use the name of the class for multi elements for example ``` <li class="class name">..</> <li class="class name">..</> ```
 
 
-## HTML 5 Layout;
-[](https://github.com/MURADALSHORMAN/reading-notes/blob/main/site%20map.JPG)
+## HTML 5 Layout:
+[](https://github.com/MURADALSHORMAN/reading-notes/blob/main/site%20map.JPG?raw=true)
 
 ### Summary HTML5
 1. The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
@@ -75,7 +75,8 @@ for the classes we can use the name of the class for multi elements for example 
 *referance :duckett Html && CSS book*
   
  ##### Example for the site map
- [](https://github.com/MURADALSHORMAN/reading-notes/blob/main/site%20map.JPG)
+ 
+[site map](https://github.com/MURADALSHORMAN/reading-notes/blob/main/site%20map.JPG)
  
 ### how to use JavaScript?
 A computer program is a list of "instructions" to be "executed" by a computer.In a programming language, these programming instructions are called statements.

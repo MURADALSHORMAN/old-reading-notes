@@ -203,3 +203,19 @@ switch (new Date().getDay()) {
     day = "Saturday";
 }
 ```
+
+Quiz
+
+1- which of the following list we can use in the HTML?
+- a main list  
+- b sub list
+- c ordered list
+
+2- we can not use the arthmaitic opration with arry in java script
+- a True
+- b fulse
+
+3- we can not use CSS to control the dimensions of a box
+- a True
+- b Fulse
+

@@ -87,9 +87,9 @@ and max-height properties.
  `<tr>`
  
 `<td><img src="images/..." width="200"
-height="100" alt="..." /></td>
-<td class="..."></td>
-<td>$1400</td>`
+height="100" alt="..." /></td>`
+` <td class="..."></td>`
+`<td>$1400</td>`
 
 `</tr>`
 `td.description {`

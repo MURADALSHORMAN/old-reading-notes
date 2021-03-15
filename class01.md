@@ -17,6 +17,7 @@ that html using the Tags to write the code and also contain  opining Tag and clo
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<title> ... </title>
   </head>
 <body>
     <header>
@@ -45,6 +46,16 @@ JavaScript is a scripting or programming language that allows you to implement c
 ### why we need JavaScript?
 
 JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.Incorporating JavaScript improves the user experience of the web page by converting it from a static page into an interactive one. To recap, JavaScript adds behavior to web pages.
+
+### Summary
+1. HTML pages are text documents.
+2. HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
+3. Tags are often referred to as elements.
+4. Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+5. Opening tags can carry attributes, which tell us more about the content of that element.
+6. Attributes require a name and a value.
+7. To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+*referance :duckett Html && CSS book*
 
 ### how to use JavaScript?
 A computer program is a list of "instructions" to be "executed" by a computer.In a programming language, these programming instructions are called statements.

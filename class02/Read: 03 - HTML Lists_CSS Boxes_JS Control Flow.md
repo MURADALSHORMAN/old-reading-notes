@@ -132,4 +132,24 @@ You can control the style of a border using the border-style property.
 `
 
 [](https://github.com/MURADALSHORMAN/reading-notes/blob/main/class02/broderstyle.JPG)
-  
+
+Summary BOXES
+- CSS treats each HTML e XX lement as if it has its own box.
+- You can use CSS to control the dimensions of a box.
+- You can also control the borders, margin and padding for each box with CSS.
+- It is possible to hide elements using the display and visibility properties.
+- Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
+- Legibility can be improved by controlling the width of boxes containing text and the leading.
+- CSS3 has introduced the ability to create image borders and rounded borders.
+
+# CREATING AN ARRAY in JS
+
+You create an array and give it a name just like you would any other variable (using the var keyword followed by the name of the array).
+ 
+ `
+ var colors;
+colors ['white', 'black', ' custom '];
+var el document.getElementByld('col ors');
+el . textContent = col ors[O];
+`
+Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).

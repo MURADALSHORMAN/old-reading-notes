@@ -9,7 +9,7 @@ Web browsers receive HTML documents from a web server or from local storage and 
 ### how to use Html?
 >
 #### Basic Html Structure:
-![](html stracture1.JPG)
+![](https://github.com/MURADALSHORMAN/reading-notes/blob/main/html%20stracture1.JPG)
 
 that html using the Tags to write the code and also contain  opining Tag and closing Tag for example 
 
@@ -57,6 +57,26 @@ JavaScript is a text-based programming language used both on the client-side and
 7. To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 *referance :duckett Html && CSS book*
 
+
+### id and class
+
+we can defined the id for any element by write the name of the id in the Tag for example ``` <p id="id name"> </p> ``` and it should be uniqe.
+for the classes we can use the name of the class for multi elements for example ``` <li class="class name">..</> <li class="class name">..</> ```
+
+
+## HTML 5 Layout;
+[](https://github.com/MURADALSHORMAN/reading-notes/blob/main/site%20map.JPG)
+
+### Summary HTML5
+1. The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
+2. The new elements provide clearer code (compared with using multiple <div> elements).
+3. Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+4. To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+*referance :duckett Html && CSS book*
+  
+ ##### Example for the site map
+ [](https://github.com/MURADALSHORMAN/reading-notes/blob/main/site%20map.JPG)
+ 
 ### how to use JavaScript?
 A computer program is a list of "instructions" to be "executed" by a computer.In a programming language, these programming instructions are called statements.
 A JavaScript program is a list of programming statements for example:
@@ -102,54 +122,9 @@ var x, y;
 x = 5;
 y = 6;
 ```
-#### The JavaScript Switch Statement
-Use the switch statement to select one of many code blocks to be executed.
 
-Syntax:
-```
-switch(expression) {
-  case x:
-    // code block
-    break;
-  case y:
-    // code block
-    break;
-  default:
-    // code block
-}
-```
-This is how it works:
 
-* The switch expression is evaluated once.
-* The value of the expression is compared with the values of each case.
-* If there is a match, the associated block of code is executed.
-* If there is no match, the default code block is executed.
 
-This example uses the weekday number to calculate the weekday name:
-```
-switch (new Date().getDay()) {
-  case 0:
-    day = "Sunday";
-    break;
-  case 1:
-    day = "Monday";
-    break;
-  case 2:
-     day = "Tuesday";
-    break;
-  case 3:
-    day = "Wednesday";
-    break;
-  case 4:
-    day = "Thursday";
-    break;
-  case 5:
-    day = "Friday";
-    break;
-  case 6:
-    day = "Saturday";
-}
-```
 Quiz :
 
 1. for the following HTML stracture which is the correct standerd stracutre ?
@@ -199,20 +174,10 @@ Quiz :
  ```
  
 
-2. for the folloing switch statment if the fruits value Apple what is the msg will shown?
-```
-switch
-(fruits) {
- case
- "Banana":
-    alert("Hello")
-    break;
- case
- "Apple":
-    alert("Welcome")
-    break;    
-}
-```
-* a Apple
-* b welcome
-* c fruits
+2. which method is correct to defiened a b c variables is js?
+- a ``` var a, b , c;```
+- b ``` var a; var b; var c; ```
+- all of the above 
+
+
+

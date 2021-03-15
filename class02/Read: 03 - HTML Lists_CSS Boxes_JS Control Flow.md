@@ -92,29 +92,24 @@ height="100" alt="..." /></td>
 <td>$1400</td>`
 
 `</tr>`
+`td.description {`
+`min-width: 450px;`
+`max-width: 650px;`
+`text-align: left;`
+`padding: 5px;`
+`margin: 0px;}`
 
-`
-td.description {
-min-width: 450px;
-max-width: 650px;
-text-align: left;
-padding: 5px;
-margin: 0px;}
-`
+
 
 #### Overflowing Content
 The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two
-`
-<h2>.....</h2>
-<p class="....">.... </p>
-<h2>......</h2>
-<p class="...">... </p>
-  
-  p.one {
-overflow: hidden;}
-p.two {
-overflow: scroll;}
-`
+
+` <h2>.....</h2> `
+` <p class="....">.... </p> `
+` <h2>......</h2> `
+` <p class="...">... </p> `
+` p.one`` {overflow: hidden;} `
+` p.two`` {overflow: scroll;} `
 
 ### border-style
 You can control the style of a border using the border-style property.

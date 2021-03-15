@@ -8,7 +8,7 @@
 
 
 	
-- [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow]()
+- [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://github.com/MURADALSHORMAN/reading-notes/blob/main/class02/Read:%2003%20-%20HTML%20Lists_CSS%20Boxes_JS%20Control%20Flow.md)
 
 
 

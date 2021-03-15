@@ -79,6 +79,49 @@ width: 75%;
 background-color: #0088dd;}
 `
   
+ #### Limiting Width
+ In the same way that you might want to limit the width of a box on a page, you may also want to limit the height of it. This is achieved using the min-height
+and max-height properties.
+ `
+ <tr>
+<td><img src="images/..." width="200"
+height="100" alt="..." /></td>
+<td class="..."></td>
+<td>$1400</td>
+</tr>
+td.description {
+min-width: 450px;
+max-width: 650px;
+text-align: left;
+padding: 5px;
+margin: 0px;}
+`
+
+#### Overflowing Content
+The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two
+`
+<h2>.....</h2>
+<p class="....">.... </p>
+<h2>......</h2>
+<p class="...">... </p>
   
-  
+  p.one {
+overflow: hidden;}
+p.two {
+overflow: scroll;}
+`
+
+### border-style
+You can control the style of a border using the border-style property.
+`
+p.one {border-style: solid;}
+p.two {border-style: dotted;}
+p.three {border-style: dashed;}
+p.four {border-style: double;}
+p.five {border-style: groove;}
+p.six {border-style: ridge;}
+p.seven {border-style: inset;}
+p.eight {border-style: outset;}
+`
+[]()
   

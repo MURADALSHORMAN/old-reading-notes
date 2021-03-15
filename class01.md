@@ -9,7 +9,7 @@ Web browsers receive HTML documents from a web server or from local storage and 
 ### how to use Html?
 >
 #### Basic Html Structure:
-![](BasicHtmlStructure.png)
+![](html stracture1.JPG)
 
 that html using the Tags to write the code and also contain  opining Tag and closing Tag for example 
 

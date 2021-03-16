@@ -13,7 +13,7 @@
 
 
 
-- [Read: 04 - HTML Links, CSS Layout, JS Functions]()
+- [Read: 04 - HTML Links, CSS Layout, JS Functions](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Read:%2004%20-%20HTML%20Links%2C%20CSS%20Layout%2C%20JS%20Functions.md)
 
 
 -  [Read: 05 - HTML Images; CSS Color & Text]()

@@ -17,3 +17,11 @@ the result :
 2. <a href="http://www.google.com">google</a>
 3. <a href="http://bitcoin.black">black bitcoin</a>
 
+![](https://github.com/MURADALSHORMAN/reading-notes/blob/main/links.JPG)
+
+to open linke in new tap for example:
+
+1. ` <a href="http://www.facebook.com" target="_blank">facebook</a> `
+
+the result :
+1. <a href="http://www.facebook.com" target="_blank">facebook</a>

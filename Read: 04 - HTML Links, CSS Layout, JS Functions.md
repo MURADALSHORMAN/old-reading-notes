@@ -43,14 +43,38 @@ I have not specified a width  property for the heading element, so you can see h
 fro example:
 
 
-` body {
+```
+body {
 width: 750px;
 font-family: Arial, Verdana, sans-serif;
-color: #665544;}`
-` h1 {
+color: #665544;}
+ h1 {
 background-color: #efefef;
-padding: 10px;}`
-` p {width: 450px;} `
+padding: 10px;}
+ p {width: 450px;} 
+ ```
 
+# Functions, Methods, and Objects in js 
 
+#### WHAT IS A FUNCTION?
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can
+reuse the function (rather than repeating the same set of st atements).
 
+1. A BASIC FUNCTION
+
+```
+var msg = 'Sign up to receive our newsletter for 10% off!';
+function updateMessage() {
+var el = document.getElementByld('message'};
+el .textContent = msg;
+}
+updateMessage(};
+```
+
+declraring the functions :
+ ```
+ function name() {statments;}
+ ```
+ to call the function should be write the function name :
+ ` name of the function(); `
+ 

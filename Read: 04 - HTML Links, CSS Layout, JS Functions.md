@@ -78,3 +78,14 @@ declraring the functions :
  to call the function should be write the function name :
  ` name of the function(); `
  
+ quiz
+ 1. the correct way to write the function is :
+ - a name(),  
+ - b  name;
+ - c name();
+ 
+ 2. the corrct way to link another web page is :
+- a ` <a href="http://www.facebook.com">facebook</a> `
+- b ` <a "http://www.facebook.com">facebook</a> `
+- c `<a rel="http://www.facebook.com">facebook</a> `
+

@@ -25,3 +25,32 @@ to open linke in new tap for example:
 
 the result :
 1. <a href="http://www.facebook.com" target="_blank">facebook</a>
+
+
+# Css layout:
+
+#### Building Blocks
+CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+
+Normal Fl ow :
+
+In normal flow, each block-level element sits on top of the next one. Since this is the default way in which browsers treat HTML elements, you do not
+need a CSS property to indicate that elements should appear in normal flow, but the syntax would be:
+
+` position: static; `
+
+I have not specified a width  property for the heading element, so you can see how it stretches the width of the entire browser window by default.
+fro example:
+
+
+` body {
+width: 750px;
+font-family: Arial, Verdana, sans-serif;
+color: #665544;}`
+` h1 {
+background-color: #efefef;
+padding: 10px;}`
+` p {width: 450px;} `
+
+
+

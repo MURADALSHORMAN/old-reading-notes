@@ -21,7 +21,7 @@
 
 	
 
-- [Read: 06 - JS Object Literals; The DOM]()
+- [Read: 06 - JS Object Literals; The DOM](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Read:%2006%20-%20JS%20Object%20Literals%3B%20The%20DOM.md)
 
 
 

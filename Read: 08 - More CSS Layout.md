@@ -57,5 +57,5 @@ Composition in any visual art (such as design, painting, or photography) is the 
 position items on a page, and the same is true for web designers.
 
 
-!()[https://github.com/MURADALSHORMAN/reading-notes/blob/main/layout.JPG]
+![](https://github.com/MURADALSHORMAN/reading-notes/blob/main/layout.JPG)
 

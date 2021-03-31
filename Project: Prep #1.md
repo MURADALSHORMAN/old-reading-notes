@@ -1,3 +1,14 @@
+
+Group 6 :
+1.Ibrahim abu Awad
+2.Murad
+3. Anas
+4. Dina khalil
+5. Abdulrahman
+6. Rula
+
+
+
 # Team Agreement.
 
 Here is the conflict resolution process in five steps.

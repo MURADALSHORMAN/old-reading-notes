@@ -30,6 +30,7 @@
 
 
 -  [Read: 10 - JS Debugging]()
+-  ![Team Agreement.](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Project:%20Prep%20%231.md)
 
 
 

@@ -30,7 +30,7 @@
 
 
 -  [Read: 10 - JS Debugging]()
--  ![Team Agreement.](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Project:%20Prep%20%231.md)
+-
 
 
 
@@ -44,6 +44,8 @@
 
 - [Read: 14a - CSS Transforms, Transitions, and Animations]()
 - [Read: 14b - What Google Learned About Teams]()
+
+ -  [Team Agreement.](https://github.com/MURADALSHORMAN/reading-notes/blob/main/Project:%20Prep%20%231.md)
 
 
 
